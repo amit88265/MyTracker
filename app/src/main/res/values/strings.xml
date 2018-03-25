@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Proximity</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="altitude">Altitude</string>
+    <string name="distance_hotel_taj_mumbai_18_9217671_72_8319097">Distance (Hotel Taj ,Mumbai):(18.9217671, 72.8319097)</string>
+</resources>
